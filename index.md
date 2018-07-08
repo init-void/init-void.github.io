@@ -15,8 +15,8 @@ for this website.
 #### Projects I intend to work on
 
 This is tough since I have many plans for the future.
-Since I'm very interested in OS Development and design, I plan to follow Andrew S. Tanenbaum's book 
-and exercises based on Minix. I'll upload those as I work on them.
+Since I'm very interested in OS Development and design, I plan to follow *[Andrew S. Tanenbaum's]*(https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum) book 
+and exercises based on **[Minix]**(https://www.minix3.org/). I'll upload those as I work on them.
 
 Also, I'd like to work on a small web app that will use Dash and Plotly, but that's just 
 an impractical idea I have. :)
