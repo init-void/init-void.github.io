@@ -1,16 +1,25 @@
-## A little about myself:
+## A little bit about myself:
 
 - Name: Josias Alvarado
 - Nicaraguan
+- Systems Engineering student
 - Programmer wannabe
-- Musician
-- Chess player
+- Occasional chess player and guitarist
 - An always curious dude willing to learn all sorts of things...
 
 ### Projects
 
 I'm currently working on a simple Flask website for a small startup. Please bear with me on updates
-for this website. 
+for this website.
+
+#### Projects I intend to work on
+
+This is tough since I have many plans for the future.
+Since I'm very interested in OS Development and design, I plan to follow Andrew S. Tanenbaum's book 
+and exercises based on Minix. I'll upload those as I work on them.
+
+Also, I'd like to work on a small web app that will use Dash and Plotly, but that's just 
+an impractical idea I have. :)
 
 ### Contact
 
